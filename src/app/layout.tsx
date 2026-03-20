@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pickty — 시청자 참여형 랭킹 메이커",
-  description: "티어표 만들기 & 이상형 월드컵을 시청자와 함께",
+  title: "Pickty — 티어표 만들기 & 이상형 월드컵",
+  description: "티어표 만들기 & 이상형 월드컵",
 };
 
 export default function RootLayout({

@@ -103,7 +103,7 @@ export default function LoginPage() {
               Pickty
             </span>
           </Link>
-          <p className="mt-2 text-sm text-zinc-400">시청자 참여형 랭킹 메이커</p>
+          <p className="mt-2 text-sm text-zinc-400">티어표 만들기 & 이상형 월드컵</p>
         </div>
 
         {/* Card */}
